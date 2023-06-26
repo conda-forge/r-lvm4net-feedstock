@@ -1,11 +1,11 @@
-About r-lvm4net
-===============
+About r-lvm4net-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lvm4net-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/igollini/lvm4net
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lvm4net-feedstock/blob/main/LICENSE.txt)
 
 Summary: Latent variable models for network data using fast inferential procedures. For more information please visit: <http://igollini.github.io/lvm4net/>.
 
